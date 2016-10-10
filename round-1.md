@@ -102,7 +102,7 @@ The biggest drawback to using Exponent is no native modules. From the docs:
 
 This has effected my own project by not allowing me to add Google login at this moment in time. This is something the Exponent team hopes to add in the next 6 weeks (when Exponent v12 comes out. We're on v10 at the moment.)
 
-One other thing to take note of is that Exponent uses a fork of React Native, so it's not always on the last version of RN. At the time of writing, React Native is on 0.34 and the Exponent fork is at 0.32. They try to be within one month of RN major releases. if I rememember correctly.
+One other thing to take note of is that Exponent uses a fork of React Native, so it's not always on the last version of RN. At the time of writing, React Native is on 0.34 and the Exponent fork is at 0.33. They try to be within one month of RN major releases if I rememember correctly.
 
 ### List of topics (for next time)
 
